@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-samplePlatform",
+  "name": "homebridge-soma-blinds",
   "version": "0.0.1",
   "description": "Sample Platform plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/example/homebridge.git"
+    "url": "git://github.com/thncode/homebridge-soma-blinds.git"
   },
   "bugs": {
     "url": "http://github.com/example/homebridge/issues"
